@@ -37,5 +37,42 @@ Cẩm nang kiến thức về sinh học màng của tác giả : Kirill Sidorov
 https://play.google.com/store/apps/details?id=com.do_apps.catalog_971
 
 
+Điện Thế Nghỉ Màng Tế Bào :
+Link trên Youtube 
+( https://youtube.com/watch?v=PSggwWe3Atk&si=_zyA34CqpvK2XdBs)
+Trích xuất dữ liệu trên Youtube 
+Điện thế Hoạt Động Màng Tế Bào :
+Link 
+( https://youtube.com/watch?v=hrGvIOUkJhU&si=BMZ0l_qI2NLjR6VD )
+Trích xuất dữ liệu tham khảo của trang wep bách khoa thư mở Wikipedia's 
+Synapse Thần Kinh Mang Điện :
+Link
+ ( https://vi.m.wikipedia.org/wiki/Synap#:~:text=Synap%20th%E1%BA%A7n%20kinh%20%E2%80%93%20th%E1%BA%A7n%20kinh,kinh%20l%C3%A0m%20c%C6%A1%20ph%E1%BA%A3n%20%E1%BB%A9ng. )
+Tất cả những dữ liệu trên đã nêu lên những vấn đề liên quan đến nội dung nghiên cứu là Thiết bị y khoa phát hiện ra căn bệnh Ung Thư, Khối U ở người bệnh giai đoạn sớm nhất.
+Điều ước mong của tôi là xây dựng cơ sở dữ liệu để mong được đóng góp và hỗ trợ các tổ chức liên quan và đồng thời cũng là bài dự thi cho một cuộc thi Hackathon devpost có giải thưởng lớn để tôi mua được một ngôi nhà đón bố mẹ tôi ở xa về sinh sống cùng tôi.
+                       ****************
+Lập bản đồ logic chức năng của thiết bị dựa vào cơ sở dữ liệu và nhận định cá nhân
+•™ QUY TRÌNH HÌNH THÀNH VÀ CHUYỂN HÓA CHUYÊN BIỆT CỦA MỘT SỐ TẾ BÀO RẤT  CẦN NGHIÊN CỨU VÀ PHÂN TÍCH TRONG DỰ ÁN.
+#TẾ BÀO PHÔI THAI CHUYỂN HÓA CHUYÊN BIỆT THÀNH TẾ BÀO KHÁNG THỂ Ở BÀO QUAN BỊ TỔN THƯƠNG! 
+* Trường hợp thai nhi hình thành đến thời gian đủ điều kiện siêu âm, kết quả phát hiện hai tim thai nhưng một thời gian sau đến hẹn siêu âm lại thì kết quả cho thấy chỉ còn một tim thai.........???!
+Ở trường hợp này sự hình thành hai tim thai không thành công. Tế bào phôi thai có trách nhiệm chuyên biệt chuyển hóa thành bộ phận trái Tim bị tổn thương, nhau thai chỉ có trách nhiệm dẫn truyền dưỡng chất nuôi tế bào phôi thai hình thành các bộ phận cơ thể trong thai nhi.
+Với khả năng có thể chuyển hóa thành bất kể bộ phận cơ thể nào thì nguồn gốc chắc chắn là tế bào phôi thai rồi. Thế nhưng một tim thai bị triệt tiêu chỉ còn lại một tim thai chính để hoàn thành cơ thể cho thai nhi thì đây chính là dấu hiệu cho ta nhận biết về sự hình thành TẾ BÀO KHÁNG THỂ  đầu tiên thuộc hệ miễn dịch của quá trình hình thành tế bào thuộc hệ miễn dịch.
+Ở trường hợp tiếp theo... Biểu hiện của thai nhi sau khi sinh ra phát hiện thấy mắc bệnh viêm tai giữa. Đây là một trường hợp khá phổ biến ở trẻ sơ sinh được phát hiện.
+Thế nhưng điều nên biết và tìm hiểu ở vấn đề này là những tế bào chuyên biệt chuyển hóa thành bộ phận cơ thể thuộc não bộ đã có dấu hiệu bị tổn thương từ thời điểm trong bụng mẹ.
+Sự tổn thương này khá hợp lý ở bộ phận trung não .
+Trích xuất dữ liệu tham khảo từ bách khoa toàn thư mở Wikipedia's 
+Trung não
+https://vi.m.wikipedia.org/wiki/Trung_n%C3%A3o
+Vấn đề này cho thấy khi tế bào chuyên biệt chuyển hóa thành bộ phận của não bộ bị tổn thương thì rất có thể đây là nguồn gốc sinh ra tế bào thần kinh tự miễn tự nhiên NK.
+Và hơn nữa rất có thể vấn đề này cũng là điều chứng minh cho sự hình thành của tế bào Lympho. 
+   •™Điều quan trọng cho sự hình thành của một trong những tế bào ưu tú nhất của một số nghiên cứu về tế bào gốc đa năng.
+Nếu như ta biết rõ được sự hình thành và đặc tính của những tế bào kháng thể thuộc hệ miễn dịch cơ thể ở khu vực não bộ tham gia vào sự kiện tấn công các tế bào có khả năng đột biến GEN chuyển hóa thành tế bào ung thư sau quá trình " trình diện kháng nguyên"  "đáp ứng viêm" .
+Chỉ số đo của tế bào thần kinh như ở thân nơron thần kinh cho giá trị điện áp nghỉ là -65mV hay các tế bào cũng thuộc não bộ như Synapse thần kinh mang điện tử có mặt ở một bộ phận như vùng tổn thương ở Phổi, ở Gan hay ở Tụy thì chúng ta hiểu đây rất có khả năng là tế bào kháng thể thần kinh di chuyển xuống nơi được phát tín hiệu SOS ở quá trình đáp ứng viêm hoặc trình diện kháng nguyên có thể dấu hiệu cho thấy chuẩn bị có sự tấn công tế bào bằng năng lượng đối cực là năng lượng âm một dấu hiệu nhận biết đặc biệt sự tham gia ít nhất là hai tế bào  của não bộ thuộc hệ miễn dịch.
+Liệu tế bào luôn có mặt :  Synapse thần kinh mang điện tử với trách nhiệm kết nối, dẫn truyền tín hiệu thần kinh có phải là điều nhận biết đầu tiên khi chúng ta phát hiện ra khả năng đột biến gen của tế nào ở vị trí có khả năng hình thành ung thư hay khối u ?
+Điều này chưa có tính thuyết phục
+Vậy chúng ta phân tích thêm một dẫn chứng nữa. Đây là phân tích cá nhân về bệnh ung thư phổi.
+
+
+
  
          
